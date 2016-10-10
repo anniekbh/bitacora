@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+body {
+	background-image: url("../img/gato_patas.jpg");
+	background-repeat: no-repeat;
+	font-family: 'Pacifico', cursive;
+}
+.opciones{
+	padding-top: 35%;
+}
+.eleccion{
+	background-color: rgba(102,102,102,0.80);
+	margin: 2%;
+	padding: 3% 1% 1% 2%;
+}
+i{
+	cursor: pointer;
+	color: rgba(136, 14, 79, 0.55);
+}
+h4{
+	color: #2E294E;
+}
+.post{
+	background-color: rgba(102,102,102,0.80);
+	margin-bottom: 2%;
+	padding: 3%;
+	word-wrap: break-word;
+}
+
+.autor{
+	font-style: "cursive";
+	font-weight: bold;
+	color: blue;
+}
+
+.cita{
+	color: red;
+}
